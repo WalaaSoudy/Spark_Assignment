@@ -1,4 +1,4 @@
-# Spark_Assignment
+
 # Wikimedia Page View Statistics Analysis
 
 ## Introduction
